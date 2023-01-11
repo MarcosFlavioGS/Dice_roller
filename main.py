@@ -1,5 +1,6 @@
 import random
 from dice import d6_dice
+
 while True:
     num_dice = int(input("How many dice do you want to roll? "))
     dice = []
